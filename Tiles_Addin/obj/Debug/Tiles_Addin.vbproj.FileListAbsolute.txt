@@ -1,0 +1,36 @@
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Tiles_Addin.dll
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Tiles_Addin.pdb
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Tiles_Addin.xml
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Cadcorp.SIS.GisLink.Library.dll
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\System.Spatial.dll
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\bin\Debug\System.Spatial.xml
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\obj\Debug\Tiles_Addin.PlayaInfoDialog.resources
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\obj\Debug\Tiles_Addin.DataGridViewDialog.resources
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\obj\Debug\Tiles_Addin.Progress.resources
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\obj\Debug\Tiles_Addin.RotateDialog.resources
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\obj\Debug\Tiles_Addin.OverlaysDialog.resources
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\obj\Debug\Tiles_Addin.OverlaysDialogModeless.resources
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\obj\Debug\Tiles_Addin.Resources.resources
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\obj\Debug\Tiles_Addin.vbproj.GenerateResource.Cache
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\obj\Debug\Tiles_Addin.dll
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\obj\Debug\Tiles_Addin.xml
+C:\Users\Hector\AppData\Local\Temporary Projects\Tiles_Addin\obj\Debug\Tiles_Addin.pdb
+C:\Users\Hector\documents\visual studio 2010\Projects\Tiles_Addin\Tiles_Addin\bin\Debug\Tiles_Addin.dll
+C:\Users\Hector\documents\visual studio 2010\Projects\Tiles_Addin\Tiles_Addin\bin\Debug\Tiles_Addin.pdb
+C:\Users\Hector\documents\visual studio 2010\Projects\Tiles_Addin\Tiles_Addin\bin\Debug\Tiles_Addin.xml
+C:\Users\Hector\documents\visual studio 2010\Projects\Tiles_Addin\Tiles_Addin\bin\Debug\Cadcorp.SIS.GisLink.Library.dll
+C:\Users\Hector\documents\visual studio 2010\Projects\Tiles_Addin\Tiles_Addin\obj\Debug\Tiles_Addin.Progress.resources
+C:\Users\Hector\documents\visual studio 2010\Projects\Tiles_Addin\Tiles_Addin\obj\Debug\Tiles_Addin.Resources.resources
+C:\Users\Hector\documents\visual studio 2010\Projects\Tiles_Addin\Tiles_Addin\obj\Debug\Tiles_Addin.vbproj.GenerateResource.Cache
+C:\Users\Hector\documents\visual studio 2010\Projects\Tiles_Addin\Tiles_Addin\obj\Debug\Tiles_Addin.dll
+C:\Users\Hector\documents\visual studio 2010\Projects\Tiles_Addin\Tiles_Addin\obj\Debug\Tiles_Addin.xml
+C:\Users\Hector\documents\visual studio 2010\Projects\Tiles_Addin\Tiles_Addin\obj\Debug\Tiles_Addin.pdb
